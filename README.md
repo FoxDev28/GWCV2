@@ -1,0 +1,2 @@
+# GWC
+DDOS V2 LEBIH JOS
