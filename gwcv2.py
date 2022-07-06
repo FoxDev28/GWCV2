@@ -1,6 +1,5 @@
-# Encoded By PyEncryptor
-# A Product Of XRootSec
-# https://github.com/XRootSec
+# COLONG DAH COLONG
+# GOLDENWOLF COMMUNITY 
 
 import base64
 
